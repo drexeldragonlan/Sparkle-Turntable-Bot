@@ -15,7 +15,8 @@
     "SQL Tables": "SQL Tables"
   },
   "engines": {
-    "node": ">= 0.4.0"
+    "node": ">= 0.8.0"
+    "npm": ">=1.2.11"
   },
   "dependencies" : {
   	"ttapi": "*",
